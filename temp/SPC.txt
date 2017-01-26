@@ -1,0 +1,2 @@
+@"D:\Flexcube\Deploy Automator\Sandbox\temp\SPC\cipks_cidtkf_custom.spc"
+@"D:\Flexcube\Deploy Automator\Sandbox\temp\SPC\cipks_cidtkf_main.spc"

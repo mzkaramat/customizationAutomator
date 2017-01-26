@@ -1,0 +1,2 @@
+@"D:\Flexcube\Deploy Automator\Sandbox\temp\SQL\cipks_cidtkf_custom.sql"
+@"D:\Flexcube\Deploy Automator\Sandbox\temp\SQL\cipks_cidtkf_main.sql"
